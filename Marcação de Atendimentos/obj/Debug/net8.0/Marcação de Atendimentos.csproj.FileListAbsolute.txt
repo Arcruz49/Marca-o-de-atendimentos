@@ -28,3 +28,4 @@ C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marc
 C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.pdb
 C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.genruntimeconfig.cache
 C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\ref\Marcação de Atendimentos.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.sourcelink.json

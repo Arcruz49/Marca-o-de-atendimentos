@@ -54,7 +54,7 @@
               "RelativeDocumentMoniker": "Marca\u00E7\u00E3o de Atendimentos\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\Marca\u00E7\u00E3o de Atendimentos\\Marca\u00E7\u00E3o de Atendimentos\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Marca\u00E7\u00E3o de Atendimentos\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-17T03:08:38.218Z",
               "IsPinned": true,
@@ -70,8 +70,7 @@
               "RelativeToolTip": "Marca\u00E7\u00E3o de Atendimentos\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:01:19.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T03:01:19.401Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "Marca\u00E7\u00E3o de Atendimentos\\Views\\Menu\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T02:45:27.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T02:45:27.701Z"
             },
             {
               "$type": "Document",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "Marca\u00E7\u00E3o de Atendimentos\\Controllers\\MenuController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T02:45:01.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T02:45:01.22Z"
             }
           ]
         }
