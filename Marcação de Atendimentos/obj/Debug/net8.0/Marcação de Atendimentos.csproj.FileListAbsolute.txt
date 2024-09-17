@@ -1,0 +1,30 @@
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\appsettings.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\Marcação de Atendimentos.staticwebassets.runtime.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\Marcação de Atendimentos.exe
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\Marcação de Atendimentos.deps.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\Marcação de Atendimentos.runtimeconfig.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\Marcação de Atendimentos.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\bin\Debug\net8.0\Marcação de Atendimentos.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.AssemblyInfoInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.AssemblyInfo.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.RazorAssemblyInfo.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.RazorAssemblyInfo.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\staticwebassets\msbuild.Marcação de Atendimentos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\staticwebassets\msbuild.build.Marcação de Atendimentos.props
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Marcação de Atendimentos.props
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Marcação de Atendimentos.props
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\scopedcss\bundle\Marcação de Atendimentos.styles.css
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\scopedcss\projectbundle\Marcação de Atendimentos.bundle.scp.css
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\refint\Marcação de Atendimentos.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\Marcação de Atendimentos.genruntimeconfig.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\Marcação de Atendimentos\Marcação de Atendimentos\obj\Debug\net8.0\ref\Marcação de Atendimentos.dll
